@@ -19,8 +19,10 @@
 ### This dataset contains data points that includes information such as country names, populations, number of deaths, new cases and the number of people tested.
 ### Shwoing our raw data in SQL:
 ###
-![1- Showing our raw data](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/bf117349-fb20-4f36-bd59-ca427e9a4e5f)
-
+![1- Showing our raw data](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/0ca45ca8-2499-4503-8c85-e61619a79294)
+###
+###
+### Selecting data that we are going to use:
 
 
 
