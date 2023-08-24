@@ -1,3 +1,5 @@
+<img src="https://th.bing.com/th/id/OIG.tlTNTSxj0uS8Ku5bQwia?pid=ImgGn" width="100%" alt="Superstore cast">
+
 # **European Union Covid 19 Portfolio project**
 
 ## **Introduction**
@@ -13,15 +15,11 @@
 ### The dataset to be used is from: ecdc (European Centre for Disease Prevention and Control).
 ### URL:
          http://www.ecdc.europa.eu/en/data/downloadable-datasets
-### performance Data Quality & Timeliness: This dataset contains data points that includes information such as country names, populations, number of deaths, new cases and the number of people tested.
+### performance Data Quality & Timeliness: 
+### This dataset contains data points that includes information such as country names, populations, number of deaths, new cases and the number of people tested.
+### Shwoing our raw data in SQL:
+###
 
-## **Explanation of the above files:**
-### 1- Raw Data Folder: includes the raw data that we use in our analysis.
-### 1- SQL file: Includes queries to extract tables that help us in analysis.
-### 2- Tables from SQL Qeries folder: includes tables that we extract from SQL queries.
-### 3- A PowerPoint file containing pictures that were used in the story of the tableau.
-###    Please visit: [[https://public.tableau.com/app/profile/haidar.abdo/viz/superstore_portfolio_project/Story1#1]]
-###    to see our tableau story.
 
 
 
