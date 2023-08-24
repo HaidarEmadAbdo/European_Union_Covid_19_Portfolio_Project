@@ -35,6 +35,15 @@ and consider (EU/EEE total) a country alone, so we used (Right join) to filter (
 
 ###
 ### Adding data that we are going to use in a single table called "statics_for_each_country_over_time":
+###
+![2- Showing data that we are going to use](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/9b3c4c4e-324b-4e33-8bc6-8cd00af45760)
+### We have changed the column type (year_week) from (string) to (date) so that we can draw (line charts) in tableau.
+###
+###
+## Data Exploration
+### Looking at total_cases vs population over time, and showing the countries with highest infection rate compared to popultion in SQL and Tableau:
+###
+
 
 
 
