@@ -62,6 +62,16 @@ and by a good difference from the rest of the countries.
 ###
 ### Showing Europe numbers by week, and Europe numbers in total in SQL and Tableau:
 ###
+![5- Looking at total cases per week, and Europe numbers in total](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/07d03f73-8cbe-423e-a5ca-925b6f90d6be)
+###
+![5- Looking at total cases per week, and Europe numbers in total with tableau](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/b5aabf9d-ad91-4c1c-910a-acff82f960ab)
+### We can see here that the total number of the tested persons is more than the total population, and the reason is that every single person tests 
+### his/herself more than one time, so we can't benefit from the tested_cases data, and also there is no data for the treates persons.
+###
+## Data Visualization
+### Please visit: https://public.tableau.com/app/profile/haidar.abdo/viz/Covid_19_in_The_European_Union_Portfolio_Project/Story1#1     
+### to see the full Tableau story with the conclusions and recommendations using interactive dashboards.
+
 
 
 
