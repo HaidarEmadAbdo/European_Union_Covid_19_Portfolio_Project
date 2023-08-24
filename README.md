@@ -43,6 +43,7 @@ and consider (EU/EEE total) a country alone, so we used (Right join) to filter (
 ## Data Exploration
 ### Looking at total_cases vs population over time, and showing the countries with highest infection rate compared to popultion in SQL and Tableau:
 ###
+![3- Looking at total cases vs population over time, and the countries with the highest infection rate compared to population](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/da14c43f-7b99-4f17-ab1f-b0d6068afe49)
 
 
 
