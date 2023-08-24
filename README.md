@@ -15,7 +15,7 @@
 ### The dataset to be used is from: ecdc (European Centre for Disease Prevention and Control).
 ### URL:
          http://www.ecdc.europa.eu/en/data/downloadable-datasets
-### performance Data Quality & Timeliness: 
+### Performance Data Quality & Timeliness: 
 ### This dataset contains data points that includes information such as country names, populations, number of deaths, new cases and the number of people tested.
 ### Shwoing our raw data in SQL:
 ###
