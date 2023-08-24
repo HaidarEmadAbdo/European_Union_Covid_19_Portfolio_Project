@@ -51,7 +51,17 @@ and consider (EU/EEE total) a country alone, so we used (Right join) to filter (
 ### 
 ### Looking at deaths vs new_cases over time, and showing countries with highest death rate compared to total cases in SQL and Tableau:
 ###
+![4- Looking at death vs new_cases over time, and the countries with the highes death rate compared to total cases](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/33ffb533-57b6-467b-9ae8-350ccd16553a)
+###
+![4- Looking at death vs new_cases over time, and the countries with the highes death rate compared to total cases with tableau](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/978e2c12-8bd7-49c1-9a30-19bb8ac3f16f)
+<h3> We can see that countries (1-Bulgaria 2-Hungary 3-Romania 4-Poland) is the most death rate compared to its total cases
+and by a good difference from the rest of the countries.
+(This shows that may be there are other factors that have made this virus become more deadly in these countries than others) </h3>
 
+###
+###
+### Showing Europe numbers by week, and Europe numbers in total in SQL and Tableau:
+###
 
 
 
