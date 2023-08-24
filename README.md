@@ -24,7 +24,7 @@
 ###
 ### Selecting data that we are going to use:
 ###
-![2- Selecting data that we are going to us](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/d82ae71e-5673-4ef9-8fe2-151d2e411909)
+![2- Selecting data that we are going to us](https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/assets/139217562/2af26806-4090-4640-a283-759f2faba02d)
 <h3>The two tables (deaths_stats_per_week /a/ + cases_stats_per_week /b/) are originally one table containing a (state column) 
 and this column contained two values (deaths - cases), each of which has the same number of lines of the other value (because every week
 they study the number of cases in addition to the number of deaths).
@@ -32,6 +32,11 @@ So we separated this table into two separated tables and then merged them into (
 -The third table (cases_and_test/c/) have less records from the other two ones, because the other two ones have a records for
 the (EU/EEE total) and we don't need this records, we need just the records for every single country so as not to cause chaos during the analysis 
 and consider (EU/EEE total) a country alone, so we used (Right join) to filter (EU/EEE total) records.</h3> 
+
+###
+### Adding data that we are going to use in a single table called "statics_for_each_country_over_time":
+
+
 
 
 
