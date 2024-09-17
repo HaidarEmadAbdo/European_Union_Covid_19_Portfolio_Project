@@ -1,4 +1,4 @@
-<img src="https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/blob/main/covid%2019%20european%20union%20project%20image.jfif" width="100%" alt="Superstore cast">
+<img src="https://github.com/HaidarEmadAbdo/European_Union_Covid_19_Portfolio_Project/blob/main/covid%2019%20european%20union%20project%20image.jfif" width="100%" alt="European Union Covid 19 cast">
 
 # **European Union Covid 19 Portfolio project**
 
